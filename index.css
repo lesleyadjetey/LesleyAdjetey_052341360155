@@ -167,7 +167,7 @@ footer {
     height: 50px;
 }
 
-footer .social-media a,
+footer .social-media a,z
 footer .address p {
     margin: 0.5em 0;
     color: beige;
